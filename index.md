@@ -8,4 +8,6 @@ if(exhaustion = true){
   status = faint;
 }
 ```
-  
+- [X] Acquire Pokemon
+- [ ] ???
+- [ ] Profit
